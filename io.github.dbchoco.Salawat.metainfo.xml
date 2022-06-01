@@ -47,6 +47,26 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="v1.3.0" date="2022-05-31">
+            <description>
+                <p>Assalamou Alaykoum brothers/sisters</p>
+                <p>New features:</p>
+                <ul>
+                    <li>Added weather widget.</li>
+                    <li>Added icons in the buttons.</li>
+                    <li>Added 3 different date formats.</li>
+                    <li>Quicker when saving settings.</li>
+                </ul>
+                <p>Bug fixes:</p>
+                <ul>
+                    <li>Fixed internet issues on Windows.</li>
+                    <li>Centered the Quran quote.</li>
+                    <li>Fixed some Arabic translations and fonts.</li>
+                    <li>Some other stuff.</li>
+                </ul>
+                <p>If there is any problem, please contact me so that I can fix it. If you have any ideas, I'd gladly hear them. Jazzakoum Allahu khairan.</p>
+            </description>
+        </release>
         <release version="v1.0.3" date="2022-05-22">
             <description>
                 <p>Assalamou Alaykoum brothers/sisters</p>

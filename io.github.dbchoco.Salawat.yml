@@ -23,15 +23,15 @@ modules:
         JAVA_HOME: /usr/lib/sdk/openjdk17/jvm/openjdk-17
     build-commands:
       - install --directory --mode=0755 /app/salawat
-      - install -Dm755 Salawat-1.0.3.jar /app/salawat/Salawat.jar
+      - install -Dm755 Salawat-1.3.0.jar /app/salawat/Salawat.jar
       - install -Dm755 salawat.sh /app/bin/salawat
       - install -Dm644 io.github.dbchoco.Salawat.png /app/share/icons/hicolor/512x512/apps/$FLATPAK_ID.png
       - install -Dm644 io.github.dbchoco.Salawat.desktop /app/share/applications/${FLATPAK_ID}.desktop
       - install -Dm644 io.github.dbchoco.Salawat.metainfo.xml /app/share/metainfo/$FLATPAK_ID.metainfo.xml
     sources:
       - type: file
-        url: https://github.com/DBChoco/Salawat/releases/download/v1.0.3/Salawat-1.0.3.jar
-        sha256: 74b42cf2cdbe050c2a4afdebd4e3cc0c71129328bf3ff30365690b6a6f3135e4
+        url: https://github.com/DBChoco/Salawat/releases/download/v1.3.0/Salawat-1.3.0.jar
+        sha256: 7f29b1f409509265224e9aaeba1c2999e7666a1ca2698037c421fec314cd56be
       - type: file
         path: io.github.dbchoco.Salawat.metainfo.xml
       - type: file
