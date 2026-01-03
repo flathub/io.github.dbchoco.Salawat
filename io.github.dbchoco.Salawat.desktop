@@ -1,10 +1,10 @@
 [Desktop Entry]
-Categories=Utility;Eduction;
-Exec=salawat
+Name=Salawat
 GenericName=Prayer times (adhan) app
 Icon=io.github.dbchoco.Salawat
-Keywords=athan;azan;adhan;islam;prayer;
-Name=Salawat
+Exec=salawat
+Categories=Utility;Spirituality;
+Keywords=Athan;Adhan;Azan;Islam;Muslim;Prayers;Times;Muezzin;Salah;Salat;Namaz;Islamic;Hijri;
 StartupNotify=true
 StartupWMClass=salawat
 Terminal=false
